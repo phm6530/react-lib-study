@@ -19,6 +19,11 @@ const GnbHeader = () => {
       path: "/about",
       auth: false,
     },
+    {
+      linkName: "ReactHookForm",
+      path: "/reacthookform",
+      auth: false,
+    },
   ];
 
   return (
